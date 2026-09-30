@@ -1,0 +1,1 @@
+Run BUS_GAME_EXE while it is inside the Bus Game Project FULL folder and it should work!

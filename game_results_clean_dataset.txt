@@ -1,0 +1,899 @@
+Game 1
+----------------------------------------
+1st: A*-1 - Cost: 234
+1st: GA-1 - Cost: 234
+1st: SA-1 - Cost: 234
+4th: SA-2 - Cost: 241
+5th: Greedy - Cost: 317
+Winners: A*-1, GA-1, SA-1
+
+Game 2
+----------------------------------------
+1st: A*-1 - Cost: 281
+1st: GA-1 - Cost: 281
+1st: SA-2 - Cost: 281
+4th: Greedy - Cost: 284
+5th: SA-1 - Cost: 310
+Winners: A*-1, GA-1, SA-2
+
+Game 3
+----------------------------------------
+1st: A*-1 - Cost: 234
+1st: SA-1 - Cost: 234
+3rd: GA-1 - Cost: 239
+4th: SA-2 - Cost: 384
+5th: Greedy - Cost: 390
+Winners: A*-1, SA-1
+
+Game 4
+----------------------------------------
+1st: A*-1 - Cost: 238
+2nd: GA-1 - Cost: 268
+3rd: Greedy - Cost: 340
+4th: SA-1 - Cost: 429
+DNF: SA-2
+Winners: A*-1
+
+Game 5
+----------------------------------------
+1st: A*-1 - Cost: 272
+1st: SA-2 - Cost: 272
+3rd: GA-1 - Cost: 277
+4th: SA-1 - Cost: 289
+5th: Greedy - Cost: 357
+Winners: A*-1, SA-2
+
+Game 6
+----------------------------------------
+1st: A*-1 - Cost: 250
+1st: GA-1 - Cost: 250
+3rd: Greedy - Cost: 267
+4th: SA-1 - Cost: 288
+5th: SA-2 - Cost: 341
+Winners: A*-1, GA-1
+
+Game 7
+----------------------------------------
+1st: A*-1 - Cost: 239
+1st: GA-1 - Cost: 239
+3rd: SA-1 - Cost: 279
+3rd: SA-2 - Cost: 279
+5th: Greedy - Cost: 352
+Winners: A*-1, GA-1
+
+Game 8
+----------------------------------------
+1st: A*-1 - Cost: 253
+1st: SA-2 - Cost: 253
+3rd: GA-1 - Cost: 254
+4th: Greedy - Cost: 307
+DNF: SA-1
+Winners: A*-1, SA-2
+
+Game 9
+----------------------------------------
+1st: A*-1 - Cost: 283
+1st: GA-1 - Cost: 283
+3rd: Greedy - Cost: 287
+4th: SA-2 - Cost: 299
+DNF: SA-1
+Winners: A*-1, GA-1
+
+Game 10
+----------------------------------------
+1st: A*-1 - Cost: 252
+1st: GA-1 - Cost: 252
+3rd: SA-1 - Cost: 278
+4th: SA-2 - Cost: 289
+5th: Greedy - Cost: 297
+Winners: A*-1, GA-1
+
+Game 11
+----------------------------------------
+1st: A*-1 - Cost: 208
+1st: GA-1 - Cost: 208
+1st: SA-1 - Cost: 208
+1st: SA-2 - Cost: 208
+5th: Greedy - Cost: 268
+Winners: A*-1, GA-1, SA-1, SA-2
+
+Game 12
+----------------------------------------
+1st: A*-1 - Cost: 242
+1st: SA-2 - Cost: 242
+3rd: GA-1 - Cost: 247
+4th: Greedy - Cost: 249
+5th: SA-1 - Cost: 311
+Winners: A*-1, SA-2
+
+Game 13
+----------------------------------------
+1st: A*-1 - Cost: 204
+1st: GA-1 - Cost: 204
+1st: SA-2 - Cost: 204
+4th: Greedy - Cost: 219
+5th: SA-1 - Cost: 225
+Winners: A*-1, GA-1, SA-2
+
+Game 14
+----------------------------------------
+1st: A*-1 - Cost: 213
+1st: GA-1 - Cost: 213
+1st: SA-1 - Cost: 213
+4th: SA-2 - Cost: 223
+5th: Greedy - Cost: 282
+Winners: A*-1, GA-1, SA-1
+
+Game 15
+----------------------------------------
+1st: A*-1 - Cost: 220
+1st: SA-2 - Cost: 220
+3rd: GA-1 - Cost: 225
+4th: Greedy - Cost: 238
+5th: SA-1 - Cost: 301
+Winners: A*-1, SA-2
+
+Game 16
+----------------------------------------
+1st: A*-1 - Cost: 215
+1st: GA-1 - Cost: 215
+1st: SA-1 - Cost: 215
+1st: SA-2 - Cost: 215
+5th: Greedy - Cost: 263
+Winners: A*-1, GA-1, SA-1, SA-2
+
+Game 17
+----------------------------------------
+1st: A*-1 - Cost: 188
+1st: GA-1 - Cost: 188
+1st: SA-1 - Cost: 188
+4th: SA-2 - Cost: 200
+5th: Greedy - Cost: 286
+Winners: A*-1, GA-1, SA-1
+
+Game 18
+----------------------------------------
+1st: A*-1 - Cost: 276
+1st: SA-1 - Cost: 276
+3rd: GA-1 - Cost: 282
+4th: SA-2 - Cost: 314
+5th: Greedy - Cost: 364
+Winners: A*-1, SA-1
+
+Game 19
+----------------------------------------
+1st: A*-1 - Cost: 210
+1st: GA-1 - Cost: 210
+3rd: Greedy - Cost: 234
+4th: SA-2 - Cost: 267
+DNF: SA-1
+Winners: A*-1, GA-1
+
+Game 20
+----------------------------------------
+1st: A*-1 - Cost: 268
+2nd: SA-2 - Cost: 269
+3rd: GA-1 - Cost: 270
+4th: Greedy - Cost: 279
+DNF: SA-1
+Winners: A*-1
+
+Game 21
+----------------------------------------
+1st: A*-1 - Cost: 223
+2nd: GA-1 - Cost: 237
+3rd: Greedy - Cost: 316
+DNF: SA-1
+DNF: SA-2
+Winners: A*-1
+
+Game 22
+----------------------------------------
+1st: A*-1 - Cost: 284
+1st: GA-1 - Cost: 284
+1st: SA-2 - Cost: 284
+4th: SA-1 - Cost: 311
+5th: Greedy - Cost: 337
+Winners: A*-1, GA-1, SA-2
+
+Game 23
+----------------------------------------
+1st: A*-1 - Cost: 236
+1st: GA-1 - Cost: 236
+1st: SA-2 - Cost: 236
+4th: SA-1 - Cost: 319
+5th: Greedy - Cost: 345
+Winners: A*-1, GA-1, SA-2
+
+Game 24
+----------------------------------------
+1st: A*-1 - Cost: 265
+2nd: GA-1 - Cost: 267
+3rd: Greedy - Cost: 269
+3rd: SA-1 - Cost: 269
+DNF: SA-2
+Winners: A*-1
+
+Game 25
+----------------------------------------
+1st: A*-1 - Cost: 286
+1st: GA-1 - Cost: 286
+1st: SA-1 - Cost: 286
+4th: SA-2 - Cost: 303
+5th: Greedy - Cost: 319
+Winners: A*-1, GA-1, SA-1
+
+Game 26
+----------------------------------------
+1st: A*-1 - Cost: 245
+1st: GA-1 - Cost: 245
+3rd: SA-1 - Cost: 254
+4th: SA-2 - Cost: 259
+5th: Greedy - Cost: 283
+Winners: A*-1, GA-1
+
+Game 27
+----------------------------------------
+1st: A*-1 - Cost: 282
+1st: GA-1 - Cost: 282
+1st: SA-2 - Cost: 282
+4th: Greedy - Cost: 364
+DNF: SA-1
+Winners: A*-1, GA-1, SA-2
+
+Game 28
+----------------------------------------
+1st: A*-1 - Cost: 199
+1st: GA-1 - Cost: 199
+1st: SA-1 - Cost: 199
+4th: SA-2 - Cost: 234
+5th: Greedy - Cost: 377
+Winners: A*-1, GA-1, SA-1
+
+Game 29
+----------------------------------------
+1st: A*-1 - Cost: 255
+2nd: GA-1 - Cost: 256
+3rd: SA-1 - Cost: 304
+4th: SA-2 - Cost: 324
+5th: Greedy - Cost: 356
+Winners: A*-1
+
+Game 30
+----------------------------------------
+1st: A*-1 - Cost: 313
+1st: GA-1 - Cost: 313
+1st: SA-2 - Cost: 313
+4th: SA-1 - Cost: 342
+5th: Greedy - Cost: 388
+Winners: A*-1, GA-1, SA-2
+
+Game 31
+----------------------------------------
+1st: A*-1 - Cost: 249
+1st: GA-1 - Cost: 249
+1st: SA-2 - Cost: 249
+4th: SA-1 - Cost: 252
+5th: Greedy - Cost: 254
+Winners: A*-1, GA-1, SA-2
+
+Game 32
+----------------------------------------
+1st: A*-1 - Cost: 197
+2nd: GA-1 - Cost: 227
+3rd: SA-2 - Cost: 279
+4th: Greedy - Cost: 319
+DNF: SA-1
+Winners: A*-1
+
+Game 33
+----------------------------------------
+1st: A*-1 - Cost: 194
+1st: GA-1 - Cost: 194
+3rd: SA-1 - Cost: 212
+3rd: SA-2 - Cost: 212
+5th: Greedy - Cost: 336
+Winners: A*-1, GA-1
+
+Game 34
+----------------------------------------
+1st: A*-1 - Cost: 267
+2nd: GA-1 - Cost: 276
+2nd: SA-1 - Cost: 276
+4th: SA-2 - Cost: 374
+5th: Greedy - Cost: 428
+Winners: A*-1
+
+Game 35
+----------------------------------------
+1st: A*-1 - Cost: 264
+1st: GA-1 - Cost: 264
+1st: SA-1 - Cost: 264
+4th: SA-2 - Cost: 274
+5th: Greedy - Cost: 296
+Winners: A*-1, GA-1, SA-1
+
+Game 36
+----------------------------------------
+1st: A*-1 - Cost: 328
+1st: SA-1 - Cost: 328
+3rd: GA-1 - Cost: 332
+4th: SA-2 - Cost: 346
+5th: Greedy - Cost: 371
+Winners: A*-1, SA-1
+
+Game 37
+----------------------------------------
+1st: A*-1 - Cost: 271
+1st: GA-1 - Cost: 271
+3rd: SA-2 - Cost: 278
+4th: SA-1 - Cost: 325
+5th: Greedy - Cost: 343
+Winners: A*-1, GA-1
+
+Game 38
+----------------------------------------
+1st: A*-1 - Cost: 278
+1st: SA-1 - Cost: 278
+3rd: GA-1 - Cost: 289
+4th: Greedy - Cost: 297
+DNF: SA-2
+Winners: A*-1, SA-1
+
+Game 39
+----------------------------------------
+1st: A*-1 - Cost: 265
+1st: GA-1 - Cost: 265
+1st: SA-1 - Cost: 265
+1st: SA-2 - Cost: 265
+5th: Greedy - Cost: 373
+Winners: A*-1, GA-1, SA-1, SA-2
+
+Game 40
+----------------------------------------
+1st: A*-1 - Cost: 275
+1st: SA-1 - Cost: 275
+3rd: GA-1 - Cost: 283
+4th: Greedy - Cost: 326
+DNF: SA-2
+Winners: A*-1, SA-1
+
+Game 41
+----------------------------------------
+1st: A*-1 - Cost: 257
+1st: GA-1 - Cost: 257
+1st: SA-1 - Cost: 257
+4th: Greedy - Cost: 274
+5th: SA-2 - Cost: 328
+Winners: A*-1, GA-1, SA-1
+
+Game 42
+----------------------------------------
+1st: A*-1 - Cost: 244
+1st: GA-1 - Cost: 244
+1st: SA-2 - Cost: 244
+4th: Greedy - Cost: 280
+5th: SA-1 - Cost: 283
+Winners: A*-1, GA-1, SA-2
+
+Game 43
+----------------------------------------
+1st: A*-1 - Cost: 326
+1st: SA-2 - Cost: 326
+3rd: Greedy - Cost: 344
+4th: GA-1 - Cost: 345
+5th: SA-1 - Cost: 367
+Winners: A*-1, SA-2
+
+Game 44
+----------------------------------------
+1st: A*-1 - Cost: 212
+1st: GA-1 - Cost: 212
+1st: SA-1 - Cost: 212
+4th: Greedy - Cost: 318
+DNF: SA-2
+Winners: A*-1, GA-1, SA-1
+
+Game 45
+----------------------------------------
+1st: A*-1 - Cost: 247
+1st: GA-1 - Cost: 247
+1st: SA-2 - Cost: 247
+4th: SA-1 - Cost: 272
+5th: Greedy - Cost: 386
+Winners: A*-1, GA-1, SA-2
+
+Game 46
+----------------------------------------
+1st: A*-1 - Cost: 297
+2nd: GA-1 - Cost: 300
+3rd: SA-2 - Cost: 315
+4th: SA-1 - Cost: 395
+5th: Greedy - Cost: 415
+Winners: A*-1
+
+Game 47
+----------------------------------------
+1st: A*-1 - Cost: 257
+1st: GA-1 - Cost: 257
+1st: SA-1 - Cost: 257
+4th: SA-2 - Cost: 303
+5th: Greedy - Cost: 387
+Winners: A*-1, GA-1, SA-1
+
+Game 48
+----------------------------------------
+1st: A*-1 - Cost: 264
+1st: GA-1 - Cost: 264
+1st: SA-1 - Cost: 264
+1st: SA-2 - Cost: 264
+5th: Greedy - Cost: 361
+Winners: A*-1, GA-1, SA-1, SA-2
+
+Game 49
+----------------------------------------
+1st: A*-1 - Cost: 233
+1st: GA-1 - Cost: 233
+1st: SA-2 - Cost: 233
+4th: Greedy - Cost: 288
+DNF: SA-1
+Winners: A*-1, GA-1, SA-2
+
+Game 50
+----------------------------------------
+1st: A*-1 - Cost: 286
+1st: GA-1 - Cost: 286
+3rd: SA-1 - Cost: 311
+4th: SA-2 - Cost: 317
+5th: Greedy - Cost: 356
+Winners: A*-1, GA-1
+
+Game 51
+----------------------------------------
+1st: A*-1 - Cost: 299
+1st: GA-1 - Cost: 299
+1st: SA-2 - Cost: 299
+4th: SA-1 - Cost: 306
+5th: Greedy - Cost: 426
+Winners: A*-1, GA-1, SA-2
+
+Game 52
+----------------------------------------
+1st: A*-1 - Cost: 244
+1st: SA-1 - Cost: 244
+3rd: GA-1 - Cost: 249
+4th: SA-2 - Cost: 287
+5th: Greedy - Cost: 338
+Winners: A*-1, SA-1
+
+Game 53
+----------------------------------------
+1st: A*-1 - Cost: 222
+1st: SA-2 - Cost: 222
+3rd: GA-1 - Cost: 237
+4th: SA-1 - Cost: 243
+5th: Greedy - Cost: 359
+Winners: A*-1, SA-2
+
+Game 54
+----------------------------------------
+1st: A*-1 - Cost: 255
+1st: SA-1 - Cost: 255
+3rd: SA-2 - Cost: 262
+4th: GA-1 - Cost: 267
+5th: Greedy - Cost: 297
+Winners: A*-1, SA-1
+
+Game 55
+----------------------------------------
+1st: A*-1 - Cost: 284
+1st: SA-1 - Cost: 284
+1st: SA-2 - Cost: 284
+4th: GA-1 - Cost: 287
+5th: Greedy - Cost: 346
+Winners: A*-1, SA-1, SA-2
+
+Game 56
+----------------------------------------
+1st: A*-1 - Cost: 288
+1st: GA-1 - Cost: 288
+3rd: Greedy - Cost: 305
+4th: SA-1 - Cost: 308
+DNF: SA-2
+Winners: A*-1, GA-1
+
+Game 57
+----------------------------------------
+1st: A*-1 - Cost: 308
+1st: GA-1 - Cost: 308
+1st: Greedy - Cost: 308
+1st: SA-1 - Cost: 308
+DNF: SA-2
+Winners: A*-1, GA-1, Greedy, SA-1
+
+Game 58
+----------------------------------------
+1st: A*-1 - Cost: 220
+1st: GA-1 - Cost: 220
+1st: SA-1 - Cost: 220
+1st: SA-2 - Cost: 220
+5th: Greedy - Cost: 287
+Winners: A*-1, GA-1, SA-1, SA-2
+
+Game 59
+----------------------------------------
+1st: A*-1 - Cost: 263
+2nd: GA-1 - Cost: 282
+2nd: SA-2 - Cost: 282
+4th: Greedy - Cost: 368
+DNF: SA-1
+Winners: A*-1
+
+Game 60
+----------------------------------------
+1st: A*-1 - Cost: 218
+1st: Greedy - Cost: 218
+3rd: GA-1 - Cost: 223
+3rd: SA-2 - Cost: 223
+5th: SA-1 - Cost: 252
+Winners: A*-1, Greedy
+
+Game 61
+----------------------------------------
+1st: A*-1 - Cost: 272
+1st: GA-1 - Cost: 272
+3rd: SA-1 - Cost: 293
+4th: SA-2 - Cost: 309
+5th: Greedy - Cost: 345
+Winners: A*-1, GA-1
+
+Game 62
+----------------------------------------
+1st: A*-1 - Cost: 258
+1st: GA-1 - Cost: 258
+3rd: SA-1 - Cost: 315
+4th: Greedy - Cost: 375
+DNF: SA-2
+Winners: A*-1, GA-1
+
+Game 63
+----------------------------------------
+1st: A*-1 - Cost: 318
+1st: GA-1 - Cost: 318
+3rd: Greedy - Cost: 338
+4th: SA-1 - Cost: 350
+5th: SA-2 - Cost: 352
+Winners: A*-1, GA-1
+
+Game 64
+----------------------------------------
+1st: A*-1 - Cost: 277
+1st: GA-1 - Cost: 277
+1st: SA-1 - Cost: 277
+1st: SA-2 - Cost: 277
+5th: Greedy - Cost: 385
+Winners: A*-1, GA-1, SA-1, SA-2
+
+Game 65
+----------------------------------------
+1st: A*-1 - Cost: 277
+2nd: GA-1 - Cost: 294
+2nd: SA-1 - Cost: 294
+2nd: SA-2 - Cost: 294
+5th: Greedy - Cost: 334
+Winners: A*-1
+
+Game 66
+----------------------------------------
+1st: A*-1 - Cost: 263
+1st: GA-1 - Cost: 263
+1st: SA-2 - Cost: 263
+4th: SA-1 - Cost: 321
+5th: Greedy - Cost: 335
+Winners: A*-1, GA-1, SA-2
+
+Game 67
+----------------------------------------
+1st: A*-1 - Cost: 321
+2nd: GA-1 - Cost: 345
+3rd: SA-2 - Cost: 348
+4th: Greedy - Cost: 393
+DNF: SA-1
+Winners: A*-1
+
+Game 68
+----------------------------------------
+1st: A*-1 - Cost: 275
+2nd: GA-1 - Cost: 290
+3rd: SA-2 - Cost: 341
+4th: Greedy - Cost: 344
+DNF: SA-1
+Winners: A*-1
+
+Game 69
+----------------------------------------
+1st: A*-1 - Cost: 289
+1st: GA-1 - Cost: 289
+3rd: SA-2 - Cost: 290
+4th: Greedy - Cost: 332
+DNF: SA-1
+Winners: A*-1, GA-1
+
+Game 70
+----------------------------------------
+1st: A*-1 - Cost: 253
+1st: GA-1 - Cost: 253
+3rd: SA-1 - Cost: 294
+4th: SA-2 - Cost: 298
+5th: Greedy - Cost: 318
+Winners: A*-1, GA-1
+
+Game 71
+----------------------------------------
+1st: A*-1 - Cost: 236
+1st: SA-2 - Cost: 236
+3rd: GA-1 - Cost: 245
+4th: Greedy - Cost: 350
+DNF: SA-1
+Winners: A*-1, SA-2
+
+Game 72
+----------------------------------------
+1st: A*-1 - Cost: 259
+1st: GA-1 - Cost: 259
+3rd: SA-1 - Cost: 283
+4th: SA-2 - Cost: 304
+5th: Greedy - Cost: 333
+Winners: A*-1, GA-1
+
+Game 73
+----------------------------------------
+1st: A*-1 - Cost: 251
+1st: GA-1 - Cost: 251
+1st: SA-1 - Cost: 251
+4th: SA-2 - Cost: 279
+5th: Greedy - Cost: 319
+Winners: A*-1, GA-1, SA-1
+
+Game 74
+----------------------------------------
+1st: A*-1 - Cost: 297
+2nd: GA-1 - Cost: 302
+2nd: SA-1 - Cost: 302
+4th: SA-2 - Cost: 369
+5th: Greedy - Cost: 382
+Winners: A*-1
+
+Game 75
+----------------------------------------
+1st: A*-1 - Cost: 314
+1st: GA-1 - Cost: 314
+3rd: SA-2 - Cost: 347
+4th: Greedy - Cost: 368
+DNF: SA-1
+Winners: A*-1, GA-1
+
+Game 76
+----------------------------------------
+1st: A*-1 - Cost: 304
+1st: GA-1 - Cost: 304
+1st: SA-2 - Cost: 304
+4th: SA-1 - Cost: 328
+5th: Greedy - Cost: 397
+Winners: A*-1, GA-1, SA-2
+
+Game 77
+----------------------------------------
+1st: A*-1 - Cost: 211
+1st: GA-1 - Cost: 211
+3rd: SA-2 - Cost: 277
+4th: Greedy - Cost: 366
+DNF: SA-1
+Winners: A*-1, GA-1
+
+Game 78
+----------------------------------------
+1st: A*-1 - Cost: 247
+1st: GA-1 - Cost: 247
+1st: SA-2 - Cost: 247
+4th: Greedy - Cost: 289
+5th: SA-1 - Cost: 332
+Winners: A*-1, GA-1, SA-2
+
+Game 79
+----------------------------------------
+1st: A*-1 - Cost: 271
+1st: GA-1 - Cost: 271
+1st: SA-1 - Cost: 271
+4th: Greedy - Cost: 341
+5th: SA-2 - Cost: 344
+Winners: A*-1, GA-1, SA-1
+
+Game 80
+----------------------------------------
+1st: A*-1 - Cost: 287
+1st: GA-1 - Cost: 287
+1st: SA-1 - Cost: 287
+4th: SA-2 - Cost: 288
+5th: Greedy - Cost: 304
+Winners: A*-1, GA-1, SA-1
+
+Game 81
+----------------------------------------
+1st: A*-1 - Cost: 247
+1st: SA-1 - Cost: 247
+3rd: GA-1 - Cost: 260
+4th: SA-2 - Cost: 266
+5th: Greedy - Cost: 376
+Winners: A*-1, SA-1
+
+Game 82
+----------------------------------------
+1st: A*-1 - Cost: 366
+2nd: GA-1 - Cost: 379
+3rd: SA-1 - Cost: 390
+4th: SA-2 - Cost: 393
+5th: Greedy - Cost: 459
+Winners: A*-1
+
+Game 83
+----------------------------------------
+1st: A*-1 - Cost: 266
+1st: SA-1 - Cost: 266
+3rd: SA-2 - Cost: 279
+4th: GA-1 - Cost: 281
+5th: Greedy - Cost: 346
+Winners: A*-1, SA-1
+
+Game 84
+----------------------------------------
+1st: A*-1 - Cost: 319
+1st: SA-1 - Cost: 319
+3rd: GA-1 - Cost: 336
+4th: Greedy - Cost: 434
+DNF: SA-2
+Winners: A*-1, SA-1
+
+Game 85
+----------------------------------------
+1st: A*-1 - Cost: 288
+1st: GA-1 - Cost: 288
+1st: SA-1 - Cost: 288
+1st: SA-2 - Cost: 288
+5th: Greedy - Cost: 392
+Winners: A*-1, GA-1, SA-1, SA-2
+
+Game 86
+----------------------------------------
+1st: A*-1 - Cost: 297
+1st: GA-1 - Cost: 297
+3rd: SA-1 - Cost: 320
+4th: Greedy - Cost: 418
+DNF: SA-2
+Winners: A*-1, GA-1
+
+Game 87
+----------------------------------------
+1st: A*-1 - Cost: 282
+1st: GA-1 - Cost: 282
+3rd: SA-1 - Cost: 290
+3rd: SA-2 - Cost: 290
+5th: Greedy - Cost: 327
+Winners: A*-1, GA-1
+
+Game 88
+----------------------------------------
+1st: A*-1 - Cost: 317
+1st: GA-1 - Cost: 317
+1st: SA-2 - Cost: 317
+4th: SA-1 - Cost: 324
+5th: Greedy - Cost: 428
+Winners: A*-1, GA-1, SA-2
+
+Game 89
+----------------------------------------
+1st: A*-1 - Cost: 258
+1st: GA-1 - Cost: 258
+1st: SA-1 - Cost: 258
+4th: SA-2 - Cost: 277
+5th: Greedy - Cost: 384
+Winners: A*-1, GA-1, SA-1
+
+Game 90
+----------------------------------------
+1st: A*-1 - Cost: 262
+1st: GA-1 - Cost: 262
+1st: SA-2 - Cost: 262
+4th: SA-1 - Cost: 339
+5th: Greedy - Cost: 355
+Winners: A*-1, GA-1, SA-2
+
+Game 91
+----------------------------------------
+1st: A*-1 - Cost: 268
+1st: GA-1 - Cost: 268
+3rd: SA-1 - Cost: 309
+3rd: SA-2 - Cost: 309
+5th: Greedy - Cost: 362
+Winners: A*-1, GA-1
+
+Game 92
+----------------------------------------
+1st: A*-1 - Cost: 229
+1st: GA-1 - Cost: 229
+3rd: SA-1 - Cost: 244
+4th: Greedy - Cost: 303
+DNF: SA-2
+Winners: A*-1, GA-1
+
+Game 93
+----------------------------------------
+1st: A*-1 - Cost: 305
+1st: SA-2 - Cost: 305
+3rd: Greedy - Cost: 310
+4th: GA-1 - Cost: 315
+5th: SA-1 - Cost: 328
+Winners: A*-1, SA-2
+
+Game 94
+----------------------------------------
+1st: A*-1 - Cost: 306
+1st: SA-1 - Cost: 306
+3rd: GA-1 - Cost: 311
+3rd: SA-2 - Cost: 311
+5th: Greedy - Cost: 354
+Winners: A*-1, SA-1
+
+Game 95
+----------------------------------------
+1st: A*-1 - Cost: 283
+1st: GA-1 - Cost: 283
+1st: SA-2 - Cost: 283
+4th: Greedy - Cost: 296
+DNF: SA-1
+Winners: A*-1, GA-1, SA-2
+
+Game 96
+----------------------------------------
+1st: A*-1 - Cost: 225
+1st: GA-1 - Cost: 225
+1st: SA-2 - Cost: 225
+4th: SA-1 - Cost: 294
+5th: Greedy - Cost: 376
+Winners: A*-1, GA-1, SA-2
+
+Game 97
+----------------------------------------
+1st: A*-1 - Cost: 279
+1st: SA-1 - Cost: 279
+1st: SA-2 - Cost: 279
+4th: GA-1 - Cost: 287
+5th: Greedy - Cost: 370
+Winners: A*-1, SA-1, SA-2
+
+Game 98
+----------------------------------------
+1st: A*-1 - Cost: 264
+1st: SA-1 - Cost: 264
+3rd: GA-1 - Cost: 272
+4th: Greedy - Cost: 290
+5th: SA-2 - Cost: 299
+Winners: A*-1, SA-1
+
+Game 99
+----------------------------------------
+1st: A*-1 - Cost: 211
+1st: GA-1 - Cost: 211
+3rd: SA-2 - Cost: 238
+4th: Greedy - Cost: 351
+DNF: SA-1
+Winners: A*-1, GA-1
+
+Game 100
+----------------------------------------
+1st: A*-1 - Cost: 250
+1st: GA-1 - Cost: 250
+1st: SA-1 - Cost: 250
+4th: Greedy - Cost: 294
+5th: SA-2 - Cost: 356
+Winners: A*-1, GA-1, SA-1
